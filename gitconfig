@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = forestlin333@gmail.com
+	name = Jiahui Li
